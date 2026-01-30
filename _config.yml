@@ -1,6 +1,9 @@
 title: Himalaya Satyal
 description: Personal academic website
-theme: forty-jekyll-theme
+plugins:
+  - jekyll‑remote‑theme
+
+remote_theme: StartBootstrap/startbootstrap‑clean‑blog‑jekyll
 author:
   name: Himalaya Satyal
 
